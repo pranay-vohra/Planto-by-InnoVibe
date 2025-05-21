@@ -139,5 +139,6 @@ This media gives a full visual overview of how our system works and what users c
 
 This project demonstrates the powerful synergy of IoT, AI, fuzzy systems, and UI design. Planto makes plant care more thoughtful, expressive, and connected — a leap toward emotionally-aware smart environments.
 
+Thank You!
 ---
 
